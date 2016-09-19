@@ -5,7 +5,7 @@ title: Research
 
 ### Articles
 
-1. The Invalidity of the Argument from Illusion. Forthcoming. In *American Philosophical Quarterly*. (With [Lee Walters](http://www.leewaltersphilosophy.co.uk/)). (Coming soon!)
+1. [The Invalidity of the Argument from Illusion](https://www.dropbox.com/s/lbtkg2pyrzf7sb5/French%2C%20C%20%26%20Walters%2C%20L%20-%20FINAL%20-%20The%20Invalidity%20of%20the%20Argument%20from%20Illusion.pdf?dl=0). Forthcoming. In *American Philosophical Quarterly*. (With [Lee Walters](http://www.leewaltersphilosophy.co.uk/)). (Coming soon!)
 
 1. [Object Seeing and Spatial Perception](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/Research/French%2C%20C%20-%20FINAL%20DRAFT%20-%20Object%20Seeing%20and%20Spatial%20Perception.pdf). Forthcoming. In *Phenomenal Presence*, edited by Fabian Dorsch, Fiona Macpherson & Martine Nida-Rumelin, Oxford University Press.
 
