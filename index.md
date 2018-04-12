@@ -4,7 +4,7 @@ title: Research
 ---
 
 ### Articles
-1. [Epistemological Disjunctivism and its Representational Commitments]. Forthcoming. In *New Issues in Epistemological Disjunctivism*, edited by Duncan Pritchard, Casey Doyle, & Joe Milburn.
+1. Epistemological Disjunctivism and its Representational Commitments. Forthcoming. In *New Issues in Epistemological Disjunctivism*, edited by Duncan Pritchard, Casey Doyle, & Joe Milburn.
 
 1. [Bálint's Syndrome, Object Seeing, and Spatial Perception](https://www.dropbox.com/s/78i8x8cb4u2to8r/French%2C%20C%20-%20FINAL%20-%20Balints%20Syndrome%2C%20Object%20Seeing%2C%20and%20Spatial%20Perception.pdf?dl=0). Forthcoming. In *Mind & Language*.
 
