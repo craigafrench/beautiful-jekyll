@@ -5,7 +5,7 @@ title: Research
 
 ### Articles
 
-1. Epistemological Disjunctivism and its Representational Commitments. Forthcoming. In *New Issues in Epistemological Disjunctivism*, edited by Duncan Pritchard, Casey Doyle, & Joe Milburn.
+1. [Epistemological Disjunctivism and its Representational Commitments](https://philpapers.org/go.pl?id=FREEDA-2&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FFREEDA-2.pdf). Forthcoming. In *New Issues in Epistemological Disjunctivism*, edited by Duncan Pritchard, Casey Doyle, & Joe Milburn.
 
 1. [Naive Realism and Diaphaneity](https://philpapers.org/go.pl?id=FREVRA&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FFREVRA.pdf). 2018. In *Proceedings of the Aristotelian Society*. [[Published Version](https://academic.oup.com/aristotelian/advance-article/doi/10.1093/arisoc/aoy006/5035216)]
 
