@@ -7,7 +7,7 @@ title: Research
 
 1. Epistemological Disjunctivism and its Representational Commitments. Forthcoming. In *New Issues in Epistemological Disjunctivism*, edited by Duncan Pritchard, Casey Doyle, & Joe Milburn.
 
-1. [Naive Realism and Diaphaneity[(https://philpapers.org/go.pl?id=FREVRA&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FFREVRA.pdf)]. 2018. In *Proceedings of the Aristotelian Society*. [[Published Version](https://academic.oup.com/aristotelian/advance-article/doi/10.1093/arisoc/aoy006/5035216)]
+1. [Naive Realism and Diaphaneity](https://philpapers.org/go.pl?id=FREVRA&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FFREVRA.pdf). 2018. In *Proceedings of the Aristotelian Society*. [[Published Version](https://academic.oup.com/aristotelian/advance-article/doi/10.1093/arisoc/aoy006/5035216)]
 
 1. [Bálint's Syndrome, Object Seeing, and Spatial Perception](https://philpapers.org/go.pl?id=FREBSO&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FFREBSO.pdf). 2018. In *Mind & Language*. [[Published Version](https://onlinelibrary.wiley.com/doi/abs/10.1111/mila.12187)]
 
