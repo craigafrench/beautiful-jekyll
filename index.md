@@ -6,7 +6,7 @@ title: Research
 ### Articles
 1. Epistemological Disjunctivism and its Representational Commitments. Forthcoming. In *New Issues in Epistemological Disjunctivism*, edited by Duncan Pritchard, Casey Doyle, & Joe Milburn.
 
-1. [Bálint's Syndrome, Object Seeing, and Spatial Perception](https://www.dropbox.com/s/78i8x8cb4u2to8r/French%2C%20C%20-%20FINAL%20-%20Balints%20Syndrome%2C%20Object%20Seeing%2C%20and%20Spatial%20Perception.pdf?dl=0). Forthcoming. In *Mind & Language*.
+1. [Bálint's Syndrome, Object Seeing, and Spatial Perception](https://www.dropbox.com/s/78i8x8cb4u2to8r/French%2C%20C%20-%20FINAL%20-%20Balints%20Syndrome%2C%20Object%20Seeing%2C%20and%20Spatial%20Perception.pdf?dl=0). 2018. In *Mind & Language*. [[Published Version](https://onlinelibrary.wiley.com/doi/abs/10.1111/mila.12187)]
 
 1. [The Invalidity of the Argument from Illusion](https://www.dropbox.com/s/lbtkg2pyrzf7sb5/French%2C%20C%20%26%20Walters%2C%20L%20-%20FINAL%20-%20The%20Invalidity%20of%20the%20Argument%20from%20Illusion.pdf?dl=0). Forthcoming. In *American Philosophical Quarterly*. (With [Lee Walters](http://www.leewaltersphilosophy.co.uk/)).
 
