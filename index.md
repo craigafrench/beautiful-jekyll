@@ -4,11 +4,12 @@ title: Research
 ---
 
 ### Articles
-1. [The Invalidity of the Argument from Illusion](https://www.dropbox.com/s/lbtkg2pyrzf7sb5/French%2C%20C%20%26%20Walters%2C%20L%20-%20FINAL%20-%20The%20Invalidity%20of%20the%20Argument%20from%20Illusion.pdf?dl=0). Forthcoming. In *American Philosophical Quarterly*. (With [Lee Walters](http://www.leewaltersphilosophy.co.uk/)).
-
-1. [Object Seeing and Spatial Perception](https://www.dropbox.com/s/zg5ln2jilklgjt3/French%2C%20C%20-%20PROOFS%20-%20Object%20Seeing%20and%20Spatial%20Perception.pdf?dl=0). Forthcoming. In *Phenomenal Presence*, edited by Fabian Dorsch, & Fiona Macpherson, Oxford University Press.
 
 1. [Epistemological Disjunctivism and its Representational Commitments](https://philpapers.org/go.pl?id=FREEDA-2&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FFREEDA-2.pdf). Forthcoming. In *New Issues in Epistemological Disjunctivism*, edited by Duncan Pritchard, Casey Doyle, & Joe Milburn.
+
+1. [The Invalidity of the Argument from Illusion](https://www.dropbox.com/s/lbtkg2pyrzf7sb5/French%2C%20C%20%26%20Walters%2C%20L%20-%20FINAL%20-%20The%20Invalidity%20of%20the%20Argument%20from%20Illusion.pdf?dl=0). 2018. In *American Philosophical Quarterly*. (With [Lee Walters](http://www.leewaltersphilosophy.co.uk/)). [[Published Version](https://apq.press.uillinois.edu/55/4/french.html)]
+
+1. [Object Seeing and Spatial Perception](https://www.dropbox.com/s/zg5ln2jilklgjt3/French%2C%20C%20-%20PROOFS%20-%20Object%20Seeing%20and%20Spatial%20Perception.pdf?dl=0). 2018. In *Phenomenal Presence*, edited by Fabian Dorsch, & Fiona Macpherson, Oxford University Press.
 
 1. [Naive Realism and Diaphaneity](https://philpapers.org/go.pl?id=FREVRA&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FFREVRA.pdf). 2018. In *Proceedings of the Aristotelian Society*. [[Published Version](https://academic.oup.com/aristotelian/advance-article/doi/10.1093/arisoc/aoy006/5035216)]
 
