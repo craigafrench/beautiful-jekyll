@@ -19,7 +19,7 @@ title: Research
 
 1. [Bálint's Syndrome, Object Seeing, and Spatial Perception](https://philpapers.org/go.pl?id=FREBSO&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FFREBSO.pdf). 2018. In *Mind & Language*. [[Published Version](https://onlinelibrary.wiley.com/doi/abs/10.1111/mila.12187)]
 
-1. [Idiosyncratic Perception](https://www.dropbox.com/s/g442niz1fsvy1vp/French%2C%20C%20-%202016%20-%20Idiosyncratic%20Perception.pdf?dl=0). 2016. In *The Philosophical Quarterly*.
+1. [Idiosyncratic Perception](https://www.dropbox.com/s/g442niz1fsvy1vp/French%2C%20C%20-%202016%20-%20Idiosyncratic%20Perception.pdf?dl=0). 2016. In *Philosophical Quarterly*.
 
 1. [The Formulation of Epistemological Disjunctivism](https://www.dropbox.com/s/bpuc3fbeydlyo7t/French%2C%20C%20-%202016%20-%20The%20Formulation%20of%20Epistemological%20Disjunctivism.pdf?dl=0). 2016. In *Philosophy and Phenomenological Research*.
 
