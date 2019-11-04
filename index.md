@@ -41,15 +41,17 @@ title: Research
 
 ### Reviews and Other Pieces
 
-2. [Review of The Oxford Handbook to the Philosophy of Perception](http://ndpr.nd.edu/news/64969-the-oxford-handbook-of-philosophy-of-perception/), edited by Mohan Matthen. 2016. In *Notre Dame Philosophical Reviews*.
+1. Review of [The Unity of Perception: Content, Consciousness, Evidence](https://academic.oup.com/mind/advance-article-abstract/doi/10.1093/mind/fzz026/5488153), by Susanna Schellenberg. 2019. In *Mind*.
 
-3. [Pathology Based Philosophy of Mind](http://icog.group.shef.ac.uk/pathology-based-philosophy-of-mind/). 2015. On the [iCog Blog](http://icog.group.shef.ac.uk/blog/).
+1. [Review of The Oxford Handbook to the Philosophy of Perception](http://ndpr.nd.edu/news/64969-the-oxford-handbook-of-philosophy-of-perception/), edited by Mohan Matthen. 2016. In *Notre Dame Philosophical Reviews*.
 
-4. [Review of Objectivity and the Parochial](https://www.dropbox.com/s/gng7ol7xnthqktz/French%2C%20C%20-%202015%20-%20Review%20of%20Objectivity%20and%20the%20Parochial.pdf?dl=0), by Charles Travis. 2015. In *Mind*.
+1. [Pathology Based Philosophy of Mind](http://icog.group.shef.ac.uk/pathology-based-philosophy-of-mind/). 2015. On the [iCog Blog](http://icog.group.shef.ac.uk/blog/).
 
-5. [Review of Berkeley's Puzzle](https://www.dropbox.com/s/frtkb158j9xq94q/French%2C%20C%20-%202015%20-%20Review%20of%20Berkeley%27s%20Puzzle.pdf?dl=0), by John Campbell and Quassim Cassam, and The Innocent Eye, by Nico Orlandi. 2015. In *The Times Literary Supplement*. 
+1. [Review of Objectivity and the Parochial](https://www.dropbox.com/s/gng7ol7xnthqktz/French%2C%20C%20-%202015%20-%20Review%20of%20Objectivity%20and%20the%20Parochial.pdf?dl=0), by Charles Travis. 2015. In *Mind*.
 
-6. [Review of Hallucination: Philosophy and Psychology](https://www.dropbox.com/s/fy2we0mwec52x62/French%2C%20C%20-%202015%20-%20Review%20of%20Hallucination.pdf?dl=0), edited by Fiona Macpherson and Dimitris Platchias. 2015. In *Analysis*.
+1. [Review of Berkeley's Puzzle](https://www.dropbox.com/s/frtkb158j9xq94q/French%2C%20C%20-%202015%20-%20Review%20of%20Berkeley%27s%20Puzzle.pdf?dl=0), by John Campbell and Quassim Cassam, and The Innocent Eye, by Nico Orlandi. 2015. In *The Times Literary Supplement*. 
+
+1. [Review of Hallucination: Philosophy and Psychology](https://www.dropbox.com/s/fy2we0mwec52x62/French%2C%20C%20-%202015%20-%20Review%20of%20Hallucination.pdf?dl=0), edited by Fiona Macpherson and Dimitris Platchias. 2015. In *Analysis*.
 
 ### Other
 
