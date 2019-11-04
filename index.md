@@ -41,7 +41,7 @@ title: Research
 
 ### Reviews and Other Pieces
 
-1. Review of [The Unity of Perception: Content, Consciousness, Evidence](https://academic.oup.com/mind/advance-article-abstract/doi/10.1093/mind/fzz026/5488153), by Susanna Schellenberg. 2019. In *Mind*.
+1. [Review of The Unity of Perception: Content, Consciousness, Evidence](https://academic.oup.com/mind/advance-article-abstract/doi/10.1093/mind/fzz026/5488153), by Susanna Schellenberg. 2019. In *Mind*.
 
 1. [Review of The Oxford Handbook to the Philosophy of Perception](http://ndpr.nd.edu/news/64969-the-oxford-handbook-of-philosophy-of-perception/), edited by Mohan Matthen. 2016. In *Notre Dame Philosophical Reviews*.
 
