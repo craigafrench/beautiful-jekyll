@@ -5,7 +5,11 @@ title: Research
 
 ### Articles
 
-1. [Epistemological Disjunctivism and its Representational Commitments](https://philpapers.org/go.pl?id=FREEDA-2&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FFREEDA-2.pdf). Forthcoming. In *New Issues in Epistemological Disjunctivism*, edited by Duncan Pritchard, Casey Doyle, & Joe Milburn.
+1. Austerity and Illusion. Forthcoming. In *Philosopher's Imprint*. (With [Ian Phillips](https://www.ianbphillips.com/))
+
+1. [How Naïve Realism Can Explain Both the Particularity and the Generality of Experience](https://philpapers.org/go.pl?id=FREHNR&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FFREHNR.pdf). 2019. In *Philosophical Quarterly*. (With [Anil Gomes](http://www.anilgomes.com/)) [[Published Version](https://academic.oup.com/pq/article-abstract/69/274/41/5129193?redirectedFrom=fulltext)]
+
+1. [Epistemological Disjunctivism and its Representational Commitments](https://philpapers.org/go.pl?id=FREEDA-2&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FFREEDA-2.pdf). 2019. In *New Issues in Epistemological Disjunctivism*, edited by Duncan Pritchard, Casey Doyle, & Joe Milburn.
 
 1. [The Invalidity of the Argument from Illusion](https://www.dropbox.com/s/lbtkg2pyrzf7sb5/French%2C%20C%20%26%20Walters%2C%20L%20-%20FINAL%20-%20The%20Invalidity%20of%20the%20Argument%20from%20Illusion.pdf?dl=0). 2018. In *American Philosophical Quarterly*. (With [Lee Walters](http://www.leewaltersphilosophy.co.uk/)). [[Published Version](https://apq.press.uillinois.edu/55/4/french.html)]
 
