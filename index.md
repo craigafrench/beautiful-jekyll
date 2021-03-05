@@ -5,7 +5,7 @@ title: Research
 
 ### Articles
 
-1. [Naïve Realism, the Slightest philosophy, and the Slightest Science](https://www.ianbphillips.com/uploads/2/2/9/4/22946642/naive_realism_the_slightest_philosophy_and_the_slighest_science_--_french_and_phillips_--_final_draft_feb_21.pdf). Forthcoming. In C*ontemporary Debates in the Philosophy of Mind* edited by B. McLaughlin & J. Cohen. (With [Ian Phillips](https://www.ianbphillips.com/))
+1. [Naïve Realism, the Slightest philosophy, and the Slightest Science](https://www.ianbphillips.com/uploads/2/2/9/4/22946642/naive_realism_the_slightest_philosophy_and_the_slighest_science_--_french_and_phillips_--_final_draft_feb_21.pdf). Forthcoming. In C*ontemporary Debates in the Philosophy of Mind* edited by Brian McLaughlin & Jonathan Cohen. (With [Ian Phillips](https://www.ianbphillips.com/))
 
 1. [Naive Realism, Representationalism, and the Rationalizing Role of Visual Perception](https://onlinelibrary.wiley.com/doi/epdf/10.1111/phis.12174). 2020. In *Philosophical Issues*
 
